@@ -62,3 +62,4 @@ Members of the Challenge and Prize CoP gather regularly to share ideas, review b
 - Playlist of challenges and prizes webinars: https://www.youtube.com/playlist?list=PLd9b-GuOJ3nFeJeAHAn3Z5opohjxIw8OC
 - Facebook: https://www.facebook.com/challengegov
 - Twitter: https://www.twitter.com/challengegov
+![challenge-gov-new-logo](https://user-images.githubusercontent.com/90331251/140801906-75841ffa-87bd-490e-93f7-570efdd69d9c.jpg)
